@@ -1,0 +1,25 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "webgl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reesezhang/webgl.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "anyu.zhang@ele.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reesezhang/webgl/issues"
+  },
+  "homepage": "https://github.com/reesezhang/webgl#readme",
+  "dependencies": {
+    "three": "^0.93.0"
+  }
+}
